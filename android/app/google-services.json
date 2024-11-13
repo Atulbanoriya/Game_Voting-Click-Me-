@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325926426410",
+    "project_id": "click-me-99466",
+    "storage_bucket": "click-me-99466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325926426410:android:14bb6d80272a969685b053",
+        "android_client_info": {
+          "package_name": "com.techmode.clickme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlYdAA5olEiZeOf9ZiRKd2JJaJ8llQRdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
